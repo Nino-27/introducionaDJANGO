@@ -1,0 +1,18 @@
+Yess, if any one wants to have a look at ( installing virtualenv: a basis for the installation of ) django installation, please run this command when the shell opens up in Ubuntu:
+
+sudo apt-get install python-setuptools
+sudo apt-get install python-easy_install virtualenv
+-------------------------------------------------------------------------------
+
+empezar un projecto con DJANGO
+
+pip install virutalenv
+cd env
+cd Script
+activate
+
+for linux ubuntu
+source env/bin/activate
+
+------------------------------------------------------------------------------
+
